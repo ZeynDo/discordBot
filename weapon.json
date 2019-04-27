@@ -1,0 +1,72 @@
+{
+    "weapons": [{
+            "name": "Gun",
+            "damage": 50
+        },
+        {
+            "name": "Baseball",
+            "damage": 20
+        },
+        {
+            "name": "Golf Ball",
+            "damage": 10
+        },
+        {
+            "name": "knife",
+            "damage": 40
+        },
+        {
+            "name": "grenade",
+            "damage": 70
+        },
+        {
+            "name": "Laser",
+            "damage": 90
+        },
+        {
+            "name": "Rocket",
+            "damage": 200
+        },
+        {
+            "name": "MachineGun",
+            "damage": 100
+        },
+        {
+            "name": "katana",
+            "damage": 88
+        },
+        {
+            "name": "Tank",
+            "damage": 3000
+        },
+        {
+            "name": "Love",
+            "damage": 100000
+        },
+        {
+            "name": "Pillow",
+            "damage": 2
+        },
+        {
+            "name": "Nuclear Bomb",
+            "damage": 9000
+        },
+        {
+            "name": "fart",
+            "damage": 2000
+        },
+        {
+            "name": "Money",
+            "damage": 9999
+        },
+        {
+            "name": "knife",
+            "damage": 30
+        },
+        {
+            "name": "can",
+            "damage": 9
+        }
+
+    ]
+}
